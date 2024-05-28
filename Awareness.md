@@ -40,7 +40,7 @@ https://urlquery.net/
 https://zulu.zscaler.com/
 
 
-## Online Sandbox - Samples Malware Analysis:
+## Online Sandbox - Sample Malware Analysis:
 
 https://any.run/
 
